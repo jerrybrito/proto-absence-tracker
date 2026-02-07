@@ -1,0 +1,2 @@
+# Requires: future-stillness
+# (Not available on PyPI)
